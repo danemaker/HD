@@ -10,5 +10,5 @@ package IG;
  * @author Usuario
  */
 public class prueba {
-    //Hola peaso kvron;
+    //Hola peaso kbesa;
 }
